@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Tic-Tac_Toe/Tic-Tac_Toe.vcxproj" />
+</Solution>
